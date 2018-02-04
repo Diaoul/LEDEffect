@@ -1,0 +1,21 @@
+{
+  "name": "LEDEffect",
+  "keywords": "led, fastled, effect, strip, esp8266",
+  "description": "Effects for FastLED-based strips with JSON serialization and deserialization.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diaoul/LEDEffect.git"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": {
+    "name": "Antoine Bertin",
+    "url": "https://github.com/Diaoul"
+  },
+  "dependencies": {
+    "FastLED": "^3.1.0",
+    "ArduinoJson": "^5.13.0"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
